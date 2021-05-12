@@ -3,7 +3,7 @@
 ![Screen Shot 2021-03-22 at 23 34 38](https://user-images.githubusercontent.com/19447953/112084264-47f40980-8b67-11eb-914f-001b3ca6cc54.png)
 
 ## Objetivo
-**LAB.E-COMMERCE** é um projeto feito com ReactJS numa versão simplificada de um e-commerce de camisas com temática espacial, sem BackEnd.
+**LAB.E-COMMERCE** é um projeto feito com ReactJS numa versão simplificada de um e-commerce de camisas com temática espacial, sem Back-end.
 
 ## Como visualizar?
 [Lab.e-commerce](http://labenu-labecommerce.surge.sh/)
