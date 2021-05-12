@@ -32,7 +32,7 @@ Executado em "Remote Pair Programming" por:
 <div align= 'center'><b>*ENGLISH VERSION*</b></div>
 
 ## Briefing
-Create a customized Pokedex from PokeAPI's public data source.
+Create a customized E-commerce.
 
 ## Developers
 Performed in "Remote Pair Programming" by:
